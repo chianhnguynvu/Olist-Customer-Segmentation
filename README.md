@@ -59,13 +59,6 @@ Lost customers generated significant historical revenue despite no longer purcha
 
 Segments such as "Cannot Lose Them", "At Risk" and "About To Sleep" require retention strategies.
 
-
-## Dashboard Preview
-
-![Dashboard]
-
-![Segmentation]
-
 ## Project Files
 
 - Power BI dashboard
